@@ -115,13 +115,13 @@
       }
       .man-with-hands-overhead {
         transform: rotateX(200deg) rotateY(161deg) rotateZ(45deg)
-          translateY(-28px);
+          translateY(300px);
       }
       .elderly {
         transform: rotateZ(39deg) translate(40px, -51px);
       }
       .women-woods {
-        transform: rotateY(22deg) rotateZ(108deg) translate(15px, 20px);
+        transform: rotateY(22deg) rotateZ(108deg) translate(-70px, 20px);
       }
       .oscuro .benefits,
       .oscuro .linkedin {
@@ -139,3 +139,4 @@
       .oscuro .content {
         background: rgb(6, 13, 76) 24%;
       }
+      
